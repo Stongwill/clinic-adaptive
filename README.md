@@ -1,3 +1,3 @@
 # clinic-adaptive
 Responsive clinic website written in html/css/bootstrap/php/mysql.
-![home](https://github.com/Stongwill/clinic-adaptive/home.PNG)
+![home](https://github.com/Stongwill/clinic-adaptive/blob/master/home.PNG)
